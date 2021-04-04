@@ -3,7 +3,7 @@
 ## Hello and welcome to my profile. 
 
 ### Most used languaged by me :D
-[![Most used languages by CatProgrammerYT]](https://github-readme-stats.vercel.app/api/top-langs/?username=CatProgrammerYT)
+[![Most used languages by CatProgrammerYT](https://github-readme-stats.vercel.app/api/top-langs/?username=CatProgrammerYT)
 
 ### My stats
 
