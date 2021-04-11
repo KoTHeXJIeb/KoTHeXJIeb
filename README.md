@@ -5,7 +5,7 @@
 
 ## About me
 
-### Well, I know C++, C#, Java, Python, HTML, CSS, JS, but anyway I wanna learn new languages like Golang, Ruby, Rust and so one.   
+### Well, I know C++, C#, Java, Python, HTML, CSS, JS, but I wanna learn new languages like Golang, Ruby, Rust and so one.   
 ### I have plenty of repos, which can make your life easier, for example, ![Algorithms](https://github.com/CatProgrammerYT/Algorithms), ![MeowBot](https://github.com/CatProgrammerYT/MeowBot), other repos are templorary private but I\`ll publish them asap.
 
 ### Most used languaged by me :D
